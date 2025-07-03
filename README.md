@@ -32,5 +32,6 @@ The robotic arm is designed with 5 Degrees of Freedom :
 3. Use `robot_arm_design.png` to view labeled structure and understand the model layout.
 4. Simulate or print the model as needed.
 
+<hr>
 Developed by **Abdulaziz AL-Thomali** 
 
