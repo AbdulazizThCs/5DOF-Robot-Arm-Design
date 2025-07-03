@@ -33,5 +33,6 @@ The robotic arm is designed with 5 Degrees of Freedom :
 4. Simulate or print the model as needed.
 
 <hr>
+
 Developed by **Abdulaziz AL-Thomali** 
 
